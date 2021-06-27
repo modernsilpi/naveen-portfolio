@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.portfolio {
+    text-align: center;
+    background-image: url("./navbar/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    padding: 70px;
+}
+
+.portfolio h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 500;
+    letter-spacing: 2.5px;
+}
+
+.portfolio p {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Prompt', sans-serif;
+    color: rgb(59, 59, 59);
+    letter-spacing: 2px;
+}
+
+.ProfilePic {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.cardHolder {
+    padding: 50px;
+    margin: 0;
+}
+
+.cardHolder .row {
+margin: 0;
+}
+
+.Link {
+text-decoration: none !important;
+color: rgba(61, 61, 61, 0.945); 
+width: 360px !important;
+}
+
+.Link:hover {
+    color: rgba(32, 32, 32, 0.945);
+}
+
+/*  */
+
+.Displaycard {
+    height: 400px;
+    width: 360px;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(189, 189, 189);
+    text-align: center;
+    transition: 0.4s;
+}
+
+.col a, .col {
+    width: 360px !important;
+    padding: 0;
+}
+
+.Displaycard:hover {
+    box-shadow: 1px 1px 20px rgb(150, 150, 150);
+}
+
+.Displaycard img {
+    height: 280px;
+    width: 350px;
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+}
+
+.about-me {
+    padding: 50px;
+    text-align: center;
+    margin: 50px auto;
+    width: 75%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(180, 180, 180);
+}
+
+.about-me h2 {
+    font-weight: 700;
+    font-family: 'Josefin sans', sans-serif;
+}
+
+.about-me p {
+    width: 75%;
+    margin: 15px auto;
+    font-weight: 500;
+    text-shadow: 1px 1px rgb(224, 224, 224);
+}
+
+footer {
+    display: inline-flex;
+    padding: 50px;
+    background: rgba(0, 0, 15, 0.918);
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+footer p {
+    margin: 20px;
+}
+
+
+@media screen and (max-width: 420px) {
+
+    .portfolio {
+        padding: 60px 30px 30px 30px;
+        height: 750px;
+    }
+
+    .cardHolder {
+        padding: 10px;
+    }
+
+    .Displaycard {
+        width: 330px;
+        height: 350px;
+    }
+
+    .Displaycard img {
+        height: 220px;
+        width: 320px;
+    }
+
+    .cardHolder .row .col {
+        margin: 10px 0 10px 0;
+    }
+
+    .about-me {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .about-me p {
+        width: 100%;
+    }
+}
