@@ -29,6 +29,7 @@ const Routing = () => {
     <Route path="/Onboard" component={Onboard} />
     <Route path="/dream" component={Dream} />
     <Route path="/space" component={Space} />
+    <Route path ="/naveen-portfolio"  component={ Portfolio } />
     {/* <Route path="/contact" component={ Contact } /> */}
   </Switch>
 </>
