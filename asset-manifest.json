@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/naveen-portfolio/static/css/main.4ac249f1.chunk.css",
-    "main.js": "/naveen-portfolio/static/js/main.b6a1e5f4.chunk.js",
-    "main.js.map": "/naveen-portfolio/static/js/main.b6a1e5f4.chunk.js.map",
+    "main.js": "/naveen-portfolio/static/js/main.79406653.chunk.js",
+    "main.js.map": "/naveen-portfolio/static/js/main.79406653.chunk.js.map",
     "runtime-main.js": "/naveen-portfolio/static/js/runtime-main.3ab47df6.js",
     "runtime-main.js.map": "/naveen-portfolio/static/js/runtime-main.3ab47df6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/naveen-portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -74,6 +74,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.57e8d23b.chunk.js",
     "static/css/main.4ac249f1.chunk.css",
-    "static/js/main.b6a1e5f4.chunk.js"
+    "static/js/main.79406653.chunk.js"
   ]
 }
