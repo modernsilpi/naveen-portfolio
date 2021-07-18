@@ -78,10 +78,10 @@ projRef.current.scrollIntoView({behavior: "smooth"})
                 </Col>
             </Row>
         </section>
-        <section className="about-me">
+        {/* <section className="about-me">
             <h2>About me</h2>
             <p>I am a cyber security enthusiast and a web designer. My friends and I founded a startup called modern silpi. I have 2 years experience in html, css, javascript and jquery and 4 months experience in React.js. I spend half of my day learning and practising cyber security concepts. My goal is to crack OSCP within next 4 years.</p>
-        </section>
+        </section> */}
         <footer ref={scrollRef}>
            <a onClick={ insta }><p>Instagram</p></a>
            <a onClick={ linkd }><p>LinkedIn</p></a>
