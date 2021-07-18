@@ -53,7 +53,7 @@ width: 360px !important;
 
 /*  */
 
-.Displaycard {
+.Displaycard, .Displaycard1 {
     height: 400px;
     width: 360px;
     border: 1px solid rgb(209, 208, 208);
@@ -63,20 +63,28 @@ width: 360px !important;
     transition: 0.4s;
 }
 
+.Displaycard1 {
+    height: 310px;
+}
+
 .col a, .col {
     width: 360px !important;
     padding: 0;
 }
 
-.Displaycard:hover {
+.Displaycard:hover, .Displaycard1:hover {
     box-shadow: 1px 1px 20px rgb(150, 150, 150);
 }
 
-.Displaycard img {
+.Displaycard img, .Displaycard1 img {
     height: 280px;
     width: 350px;
     border-radius: 5px;
     margin: 5px 0 5px 0;
+}
+
+.Displaycard1 img {
+    height: 300px;
 }
 
 .about-me {
@@ -125,14 +133,22 @@ footer p {
         padding: 10px;
     }
 
-    .Displaycard {
+    .Displaycard, .Displaycard1 {
         width: 330px;
         height: 350px;
     }
 
-    .Displaycard img {
+    .Displaycard1 {
+        height: 330px;
+    }
+
+    .Displaycard img, .Displaycard1 img {
         height: 220px;
         width: 320px;
+    }
+
+    .Displaycard1 img {
+        height: 320px;
     }
 
     .cardHolder .row .col {

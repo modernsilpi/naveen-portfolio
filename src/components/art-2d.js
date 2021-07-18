@@ -25,7 +25,7 @@ function Art() {
             <section className="cardHolder">
             <Row xs={12} md={12} lg={12} className="row">
             <Col className="col">
-               <Link to="/space"><a onClick={spot}><div className="Displaycard">
+               <Link to="/space"><a onClick={spot}><div className="Displaycard1">
                   <img src={ Space } alt="space" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
@@ -33,7 +33,7 @@ function Art() {
                 </Col>
                 <Col className="col">
 <Link to="/dream">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ dream } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
@@ -41,7 +41,7 @@ function Art() {
                 </Col>
                 <Col className="col">
               <Link to="/Onboard">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ onBoard } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
@@ -49,7 +49,7 @@ function Art() {
                 </Col>
                 <Col className="col">
                <Link to="/spotmiescard">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ spotmies } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}

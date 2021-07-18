@@ -50,84 +50,84 @@ const history = useHistory()
                 </div></Link>
                 </Col> */}
                <Col className="col">
-               <Link to="/Art"><a onClick={spot}><div className="Displaycard">
+               <Link to="/Art"><a onClick={spot}><div className="Displaycard1">
                   <img src={ art } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a></Link>
                 </Col>
             <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ ancient } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ bike } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ dreams } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ getorder } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ getpaid } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ illusion } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ navigation } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ register } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ selectprofession } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ space } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ whatis } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
@@ -135,7 +135,7 @@ const history = useHistory()
                 </Col>
                
                {/* <Col className="col">
-               <a onClick={ms}><div className="Displaycard">
+               <a onClick={ms}><div className="Displaycard1">
                   <img src={ modernsilpi } alt="modern silpi" />
                   <h2>Modern Silpi</h2>
                   <p><b>Technologies:</b> Bootstrap, Html, Css, Js, jQuery</p>

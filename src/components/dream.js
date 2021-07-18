@@ -44,28 +44,28 @@ const history = useHistory()
                 </Col> */}
               
             <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ dream1 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ dream2 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ dream3 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ dream4 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
@@ -74,7 +74,7 @@ const history = useHistory()
                 
                
                {/* <Col className="col">
-               <a onClick={ms}><div className="Displaycard">
+               <a onClick={ms}><div className="Displaycard1">
                   <img src={ modernsilpi } alt="modern silpi" />
                   <h2>Modern Silpi</h2>
                   <p><b>Technologies:</b> Bootstrap, Html, Css, Js, jQuery</p>

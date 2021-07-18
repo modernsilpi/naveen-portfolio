@@ -50,70 +50,70 @@ const history = useHistory()
                 </Col> */}
               
             <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space1 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space2 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space3 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space4 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space5 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space6 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space7 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space8 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space9 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
                 </div></a>
                 </Col>
                 <Col className="col">
-               <a onClick={spot}><div className="Displaycard">
+               <a onClick={spot}><div className="Displaycard1">
                   <img src={ Space10 } alt="spotmies" />
                   {/* <h2>24Stream</h2>
                   <p><b>Technologies:</b>Adobe XD</p> */}
@@ -122,7 +122,7 @@ const history = useHistory()
                 
                
                {/* <Col className="col">
-               <a onClick={ms}><div className="Displaycard">
+               <a onClick={ms}><div className="Displaycard1">
                   <img src={ modernsilpi } alt="modern silpi" />
                   <h2>Modern Silpi</h2>
                   <p><b>Technologies:</b> Bootstrap, Html, Css, Js, jQuery</p>
