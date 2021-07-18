@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/naveen-portfolio/static/css/main.d6279ead.chunk.css",
-    "main.js": "/naveen-portfolio/static/js/main.12086347.chunk.js",
-    "main.js.map": "/naveen-portfolio/static/js/main.12086347.chunk.js.map",
+    "main.css": "/naveen-portfolio/static/css/main.4ac249f1.chunk.css",
+    "main.js": "/naveen-portfolio/static/js/main.93796dd7.chunk.js",
+    "main.js.map": "/naveen-portfolio/static/js/main.93796dd7.chunk.js.map",
     "runtime-main.js": "/naveen-portfolio/static/js/runtime-main.3ab47df6.js",
     "runtime-main.js.map": "/naveen-portfolio/static/js/runtime-main.3ab47df6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/naveen-portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.57e8d23b.chunk.js.map": "/naveen-portfolio/static/js/2.57e8d23b.chunk.js.map",
     "index.html": "/naveen-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/naveen-portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.d6279ead.chunk.css.map": "/naveen-portfolio/static/css/main.d6279ead.chunk.css.map",
+    "static/css/main.4ac249f1.chunk.css.map": "/naveen-portfolio/static/css/main.4ac249f1.chunk.css.map",
     "static/js/2.57e8d23b.chunk.js.LICENSE.txt": "/naveen-portfolio/static/js/2.57e8d23b.chunk.js.LICENSE.txt",
     "static/media/2d story board-page-001.cb01fbf0.jpg": "/naveen-portfolio/static/media/2d story board-page-001.cb01fbf0.jpg",
     "static/media/2d story board-page-002.e5ade331.jpg": "/naveen-portfolio/static/media/2d story board-page-002.e5ade331.jpg",
@@ -73,7 +73,7 @@
     "static/js/runtime-main.3ab47df6.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.57e8d23b.chunk.js",
-    "static/css/main.d6279ead.chunk.css",
-    "static/js/main.12086347.chunk.js"
+    "static/css/main.4ac249f1.chunk.css",
+    "static/js/main.93796dd7.chunk.js"
   ]
 }
